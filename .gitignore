@@ -12,10 +12,11 @@ build/
 develop-eggs/
 dist/
 downloads/
-data/
+# data/
 .dvc/
 eggs/
 .eggs/
+myvenv/
 lib/
 lib64/
 parts/
